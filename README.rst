@@ -4,7 +4,7 @@ Contributing Guide
 
 .. start short_desc
 
-**Contributing guide for repo-helper and associated projects**
+**Contributing guide for projects in the python-coincidence organization.**
 
 .. end short_desc
 
