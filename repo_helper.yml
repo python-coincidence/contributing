@@ -35,5 +35,6 @@ extra_sphinx_extensions:
 exclude_files:
  - contributing
  - Source_rst
+ - license_rst
 
 preserve_custom_theme: true
